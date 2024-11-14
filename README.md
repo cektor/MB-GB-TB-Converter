@@ -44,6 +44,7 @@ python3 bytsconvert.py
 # To compile
 
 NOTE: For Compilation Process pyinstaller must be installed. To Install If Not Installed.
+
 pip install pyinstaller
 ```bash
 pyinstaller --onefile --windowed bytsconvert.py
