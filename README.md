@@ -50,6 +50,12 @@ pip install pyinstaller
 pyinstaller --onefile --windowed bytsconvert.py
 ```
 
+# To run directly on Windows or Linux
+Download and Run According to Your Operating System from the Link
+
+https://github.com/cektor/MB-GB-TB-Converter/releases/tag/v1.0
+
+
 # Screenshot
 
 ![Demo](mbgbtb1.png) 
