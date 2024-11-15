@@ -45,9 +45,16 @@ python3 bytsconvert.py
 
 NOTE: For Compilation Process pyinstaller must be installed. To Install If Not Installed.
 
-pip install pyinstaller
+pip install pyinstaller 
+
+Linux Terminal 
 ```bash
 pyinstaller --onefile --windowed bytsconvert.py
+```
+
+Windows VSCode Terminal 
+```bash
+pyinstaller --onefile --noconsole bytsconvert.py
 ```
 
 # To run directly on Windows or Linux
