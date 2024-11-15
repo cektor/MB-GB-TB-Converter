@@ -57,6 +57,11 @@ Windows VSCode Terminal
 pyinstaller --onefile --noconsole bytsconvert.py
 ```
 
+MacOS VSCode Terminal 
+```bash
+pyinstaller --onefile --noconsole bytsconvert.py
+```
+
 # To run directly on Windows or Linux
 Download and Run According to Your Operating System from the Link
 
