@@ -56,6 +56,10 @@ Download and Run According to Your Operating System from the Link
 https://github.com/cektor/MB-GB-TB-Converter/releases/tag/v1.0
 
 
-# Screenshot
+# Linux Screenshot
 
-![Demo](mbgbtb1.png) 
+![Demo](linux_screenshot.png) 
+
+# Windows Screenshot
+
+![Demo](windows_screenshot.png) 
