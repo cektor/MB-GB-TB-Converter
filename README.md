@@ -1,6 +1,6 @@
 # MB-GB-TB-Converter
 
-Computer Unit Converter MB-GB-TB Conversion Processes are Written in Python Language. Works Cross Platform (Windows-MacOS-Linux) TKinder Library is used.
+Computer Unit Converter MB-GB-TB Conversion Processes are Written in Python Language. Works Cross Platform (Windows-MacOS-Linux) PyQt6 Library is used.
 
 
 
