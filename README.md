@@ -85,7 +85,7 @@ https://github.com/cektor/MB-GB-TB-Converter/releases/tag/v1.0
 
 # Linux Screenshot
 
-![Demo](linux_screenshot.png) 
+![Demo](linux_screenshotv2.png) 
 
 # Windows Screenshot
 
