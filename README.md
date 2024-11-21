@@ -74,4 +74,4 @@ https://github.com/cektor/MB-GB-TB-Converter/releases/tag/v1.0
 
 # Windows Screenshot
 
-![Demo](windows_screenshot.png) 
+![Demo](windows_screenshotv2.png) 
