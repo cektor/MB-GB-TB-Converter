@@ -12,11 +12,26 @@ sudo apt install git -y
 ```
 
 ```bash
-sudo apt install python3 -y  && sudo apt-get install python3-tk -y
-
-
+sudo apt install python3 -y 
 
 ```
+
+# Required Libraries
+
+PyQt6
+```bash
+pip install PyQt6
+```
+pyttsx3
+```bash
+pip install pyttsx3
+```
+matplotlib
+```bash
+pip install matplotlib
+```
+
+
 
 ----------------------------------
 https://fatihonder.org.tr/python-ile-mb-gb-tb-cevirici-yapimi/
