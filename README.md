@@ -1,3 +1,7 @@
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
+</a>
+
 # MB-GB-TB-Converter
 
 Computer Unit Converter MB-GB-TB Conversion Processes are Written in Python Language. Works Cross Platform (Windows-MacOS-Linux) PyQt6 Library is used.
